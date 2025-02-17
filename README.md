@@ -1,6 +1,6 @@
 <div align="center">
   
-  # Watcher.js
+  # Watcher.js 👀
   made by fac.e
   
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
