@@ -11,6 +11,10 @@
     <br>
     Loads strings from a file and allows live editing, instantly reflecting changes without reloading the main code. Error proof.
   </p>
+
+
+  ![image](https://github.com/user-attachments/assets/1de8d422-fd55-401c-a652-36f63fbaa8cc)
+
 </div>
 
 
