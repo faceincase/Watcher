@@ -14,9 +14,13 @@
 </div>
 
 
-
 > [!WARNING]  
 > Uses **`require cache`** and **`fs (file system)`**
+> 
+---
+
+- My use case:
+  - When developing a Discord.js bot, this is used to store strings and allows updating them without restarting the entire bot. It works instantly and in real time, with error handling to protect against unexpected mistakes.
 
 ---
 
